@@ -1,4 +1,5 @@
 require 'bundler'
+require_relative '../bin/run.rb'
 
 describe "Bundler" do
   before :all do

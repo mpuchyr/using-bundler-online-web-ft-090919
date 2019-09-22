@@ -12,5 +12,3 @@ end
 group :test do
   gem "rspec"
 end
-
-require_relative '../bin/run.rb'
